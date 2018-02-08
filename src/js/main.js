@@ -1,0 +1,7 @@
+import '../css/home.css'
+import '../css/responsive.css'
+import logo from '../images/logo.png'
+import img1 from '../images/1.jpg'
+import img2 from '../images/2.jpg'
+import img3 from '../images/3.jpg'
+import img4 from '../images/4.jpg'

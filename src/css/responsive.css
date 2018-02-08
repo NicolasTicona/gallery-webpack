@@ -1,0 +1,14 @@
+@media screen and (max-width: 425px){
+    
+    .header .menu a{
+        font-size: .9em;
+    }
+
+    .gallery .cont-image img{
+        width: 90%;
+    }
+
+    .footer form{
+        width: 90%;
+    }
+}
